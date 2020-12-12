@@ -14,6 +14,7 @@ gem 'devise'
 
 gem 'jbuilder', '~> 2.7'
 gem 'redis', '~> 4.0'
+gem 'sidekiq'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 
